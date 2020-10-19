@@ -1,7 +1,7 @@
 {
   "name": "integralui-web-accordion",
-  "version": "20.2.1",
-  "description": "IntegralUI Web - Accordion is a native Web Component that allows you to organize elements in groups.",
+  "version": "20.2",
+  "description": "IntegralUI Web Lite - Accordion is a native Web Component that allows you to organize elements in groups.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
